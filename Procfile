@@ -1,1 +1,1 @@
-worker: python musicbot-nyqo
+worker: python musicbot.py
