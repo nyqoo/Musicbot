@@ -555,7 +555,7 @@ async def on_ready():
 
 async def status_task():
     while True:
-        await bot.change_presence(activity=discord.Game('nhelp for commands'), status=discord.Status.do_not_disturb)
+        await bot.change_presence(activity=discord.Game('.help for commands'), status=discord.Status.do_not_disturb)
         await asyncio.sleep(10)
         await bot.change_presence(activity=discord.Game('Earraping some kids'), status=discord.Status.do_not_disturb)
         await asyncio.sleep(10)
