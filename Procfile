@@ -1,1 +1,1 @@
-worker: python botcode
+worker: python musicbot-nyqo
