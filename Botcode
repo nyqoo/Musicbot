@@ -561,4 +561,4 @@ async def status_task():
         await asyncio.sleep(10)
 
 
-bot.run('ODk4NjkwOTA5Mzc2NTAzODg4.YWn5IQ.jolFB9iZFKS6aevCW_RZ3tQowZU')
+bot.run('token')
